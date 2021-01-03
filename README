@@ -6,6 +6,10 @@ st is a simple terminal emulator for X which sucks less.
 Requirements
 ------------
 In order to build st you need the Xlib header files.
+For Debian based system, install the 'libx11-dev' and 'libxft-dev' packages:
+```bash
+$ apt install libx11-dev libxft-dev
+```
 
 
 Installation
